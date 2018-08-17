@@ -15,7 +15,7 @@ public class Day extends Stat {
      * @return
      */
     public int getLength() {
-        System.out.println("Hossz: " + length);
+        System.out.println("valami más  :) " + length);
         return length;
     }
 }
