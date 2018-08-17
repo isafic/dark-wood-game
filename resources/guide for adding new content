@@ -1,0 +1,19 @@
+just for myself so I don't forget any steps when adding new content
+
+ADDING NEW TASK
+
+1. Create new hu.df.darkwood.task.action.TaskAction object - don't forget to change the id
+2. Create a new map in hu.df.darkwood.task.TaskData - create new Map variable, don't forget mapList.add.
+    If it has resource requirements, create a new resourceMap also, and don't forget mapMap.put(id, resourceMap)
+3. If it's an upgrade, create and initialize an object for it in hu.df.darkwood.main.GameState
+4. If upgrade, create a new hu.df.darkwood.upgrade.Upgrade object for it
+5. Create hu.df.darkwood.UI.DWButton object and add it to buttonList
+6. Initialize task action object in hu.df.darkwood.main.DarkWood
+7. Add the object to taskActionList
+8. Add button to respective ActionPane (gather, build, etc)
+9. Add actionListener to button
+
+ADDING NEW STAT
+1. Create new stat object
+2. Initialize new stat object in hu.df.darkwood.main.GameState
+3. add to statList

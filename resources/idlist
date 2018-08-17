@@ -1,0 +1,7 @@
+STATS
+
+TASKS
+0 - hu.df.darkwood.task.action.GatherWood
+1 - hu.df.darkwood.task.action.LumberCabin
+2 - hu.df.darkwood.task.action.ChopWood
+3 - hu.df.darkwood.task.action.MineStone

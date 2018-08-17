@@ -1,0 +1,40 @@
+DEV PROGRESSION MILESTONES
+
+1. Framework (tick system, queueing tasks, gathering and managing resources with a constant number of workers, building houses, setting up traps for food, etc)
+* saving stats & ongoing tasks to file (iterate through tasklist and save type, lifespan and status per line on a dif txt file)
+2. hu.df.darkwood.stat.Time passing (night time, counting days, etc)
+3. Chances (new villagers joining, villagers dying, hunters dying, etc)... workers can also die doing a task, which pauses the task and you need to put another worker onto it 
+4. Multi-day hunting trips (as a task)
+5. Sacrifices
+6. Medicine (to reduce chances of villagers dying) and one-time-use weapon upgrades (to reduce chances of hunters dying)
+7. Add more resources
+8. Add more things you can build with said resources (smokehouses, etc)
+
+GAME PROGRESSION MILESTONES
+
+[SKIPPABLE INTRO MODE]
+1. Gather wood, Use wood to build traps, start gathering food
+2. At the end of the day, three villagers arrive. They offer to build a house for you and chop some wood. Introduce flame and sacrafice that night (but still unavailable).
+[INTRO ENDS (REGULAR GAME BEGINS), START SAVING, START WITH 3 VILLAGERS, 1 HOUSE AND X WOOD
+3. Start using workers, build more houses and more traps for more workers as they start arriving. At this point, workers are dying
+* (permanent upgrade) Lumberjack Hut,
+4. (permanent upgrade) Medicine Hut, lets you craft medicine.
+5. (permanent upgrade) Hunter Cabin, gives you the ability to send workers on multi-day hunting trips
+6. (permanent upgrade) Smokehouse, increases food efficiency.
+7. (permanent upgrade) Blacksmith, lets you give better temporary gear to hunting trip hunters.
+8. Contagious disease after X days kills half of your population
+9. (permanent upgrade) Daycare, gives you new villager every X days
+10.
+
+DAY PROGRESSION
+
+hu.df.darkwood.worker.Workers eat 3 times, miss a meal once = dead
+
+PROGRESSION PLAN
+
+INTRO:
+
+Start alone, only options are to stoke flame and gather sticks in forest.
+
+First villager arrives when you have built the first house, you get a prompt about how "the flame is feeling stronger"
+and you notice that the villager's arrival has made the
