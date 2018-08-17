@@ -9,7 +9,13 @@ public class Day extends Stat {
         length = 24;
         name = "day";
     }
+
+    /**
+     * hossz :)
+     * @return
+     */
     public int getLength() {
+        System.out.println("Hossz: " + length);
         return length;
     }
 }
