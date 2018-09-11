@@ -11,7 +11,8 @@ public class Day extends Stat {
     }
 
     /**
-     * hossz :)
+     * length :)
+     * adding some changes here
      * @return
      */
     public int getLength() {
